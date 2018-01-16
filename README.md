@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/stripe/stripe-ruby.svg?branch=master)](https://travis-ci.org/stripe/stripe-ruby)
 [![Coverage Status](https://coveralls.io/repos/github/stripe/stripe-ruby/badge.svg?branch=master)](https://coveralls.io/github/stripe/stripe-ruby?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fstripe-ruby.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fstripe-ruby?ref=badge_shield)
 
 The Stripe Ruby library provides convenient access to the Stripe API from
 applications written in the Ruby language. It includes a pre-defined set of
@@ -208,3 +209,7 @@ Update the bundled [stripe-mock] by editing the version number found in
 <!--
 # vim: set tw=79:
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fstripe-ruby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fstripe-ruby?ref=badge_large)
